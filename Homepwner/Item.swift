@@ -6,7 +6,7 @@
 //  Copyright © 2017 ErnShu. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 class Item: NSObject {
     var name: String
