@@ -82,7 +82,7 @@ class ItemsViewController: UITableViewController {
         if editingStyle == .delete {
             let item = itemStore.allItems[indexPath.row]
             
-            let tittle = "Delete \(item.name)?"
+            let title = "Delete \(item.name)?"
             let message = "Are you sure you want to delete this item?"
             
             let ac = UIAlertController(title: title,
