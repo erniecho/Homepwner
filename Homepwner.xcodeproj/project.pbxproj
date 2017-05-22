@@ -107,12 +107,12 @@
 			children = (
 				E371B47B1E480A11004EEB83 /* AppDelegate.swift */,
 				E371B47F1E480A11004EEB83 /* Main.storyboard */,
-				E371B4821E480A11004EEB83 /* Assets.xcassets */,
 				E371B4841E480A11004EEB83 /* LaunchScreen.storyboard */,
-				E371B4871E480A11004EEB83 /* Info.plist */,
 				E3E9D2691E495B2B00C3A315 /* ItemsViewController.swift */,
 				E3E9D26D1E49633300C3A315 /* Item.swift */,
 				E3F4C9471E5A6FC6009ACE8D /* ItemStore.swift */,
+				E371B4871E480A11004EEB83 /* Info.plist */,
+				E371B4821E480A11004EEB83 /* Assets.xcassets */,
 			);
 			path = Homepwner;
 			sourceTree = "<group>";
@@ -431,7 +431,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Homepwner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ernshu.Homepwner;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ernshu.HomeInventory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -444,7 +444,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Homepwner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ernshu.Homepwner;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ernshu.HomeInventory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
