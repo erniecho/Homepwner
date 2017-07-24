@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E309A9511ED39CD5000AEC5F /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E309A9501ED39CD5000AEC5F /* ItemCell.swift */; };
 		E371B47C1E480A11004EEB83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E371B47B1E480A11004EEB83 /* AppDelegate.swift */; };
 		E371B4811E480A11004EEB83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E371B47F1E480A11004EEB83 /* Main.storyboard */; };
 		E371B4831E480A11004EEB83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E371B4821E480A11004EEB83 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E309A9501ED39CD5000AEC5F /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		E371B4781E480A11004EEB83 /* Homepwner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homepwner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E371B47B1E480A11004EEB83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E371B4801E480A11004EEB83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				E3E9D2691E495B2B00C3A315 /* ItemsViewController.swift */,
 				E3E9D26D1E49633300C3A315 /* Item.swift */,
 				E3F4C9471E5A6FC6009ACE8D /* ItemStore.swift */,
+				E309A9501ED39CD5000AEC5F /* ItemCell.swift */,
 				E371B4871E480A11004EEB83 /* Info.plist */,
 				E371B4821E480A11004EEB83 /* Assets.xcassets */,
 			);
@@ -273,6 +276,7 @@
 				E3E9D26E1E49633300C3A315 /* Item.swift in Sources */,
 				E3F4C9481E5A6FC6009ACE8D /* ItemStore.swift in Sources */,
 				E371B47C1E480A11004EEB83 /* AppDelegate.swift in Sources */,
+				E309A9511ED39CD5000AEC5F /* ItemCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
